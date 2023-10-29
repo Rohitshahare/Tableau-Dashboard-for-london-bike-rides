@@ -1,7 +1,7 @@
 # Tableau-Dashboard-for-london-bike-sharing-dataset
 
 this is the user-friendly Dashboard to view london bike data 
-how many rides in that month, what is the temperature, windspeed , weather, hour 
+how many rides in that month/week/day, what is the temperature, windspeed , weather, hour 
 
 Link to the Dataset: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
