@@ -19,5 +19,7 @@ Link to the Dataset: https://www.kaggle.com/datasets/hmavrodiev/london-bike-shar
 * in this i make multiple worksheets to make  Dashboard
 * using Custom Calculated Field, Custom Parameter and many more.
 
+![Screenshot (19)](https://github.com/Rohitshahare/Tableau-Dashboard-for-london-bike-rides/assets/78205192/7f0418b7-dc7f-449e-adeb-c8a2e020a0d5)
+
 ## Thank you for visting. Give your feedback/suggestions.
 
