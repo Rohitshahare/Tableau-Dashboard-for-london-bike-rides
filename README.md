@@ -1,5 +1,4 @@
-# Tableau-Dashboard-for-london-bike-sharing-dataset
-
+# Tableau-Dashboard-for-london-bike-rides
 this is the user-friendly Dashboard to view london bike data 
 how many rides happened in that month/week/day, what is the temperature, windspeed , weather, hour 
 
